@@ -1,0 +1,17 @@
+*{
+    font-family: "Raleway", sans-serif;
+}
+
+.bg{
+    background-image: url(../image/hero-bg.jpg);
+    background-position: center;
+    background-repeat: none;
+    background-size: cover;
+}
+
+.f-size{
+    font-size: 52px;
+    font-weight: bolder;
+    line-height: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
